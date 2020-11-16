@@ -1,13 +1,13 @@
 title: Nest Watcher
 description: Documentation for Nest Watcher
 url: "https://ccev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/nw-wiki" # the subpath of your site, e.g. /blog
+baseurl: "/nestwatcher" # the subpath of your site, e.g. /blog
 show_downloads: false
 color_scheme: "dark" # Use "dark" for darkmode
 footer_content: "Copyright &copy; 2020."
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: https://github.com/ccev/nw-wiki
+gh_edit_repository: https://github.com/ccev/nestwatcher
 gh_edit_branch: "master"
 gh_edit_view_mode: "tree"
 
