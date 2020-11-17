@@ -24,7 +24,7 @@ pip3 install -r requirements.txt
 cp -r config_example config
 ```
 
-## Get the nest DB
+## Set up your database
 Steps to prepare your database will look different depending whether or not you have PMSF (and its manualdb) fully set up.
 
 ### No PMSF manuladb
@@ -37,3 +37,11 @@ _If you're running RocketMAD, you'll have to replace `{DBNAME}` with your MAD DB
 ```bash
 mysql -u {USER} -p {PASS} {MANUALDB} < sql/update.sql
 ```
+
+## Configure the tool
+Now `cd config` and fill out the files. For your first run, it's enough to focus on the DB credentials in `config.ini` and geofences in `areas.json`. You can do the rest later. If you need help filling them out, refer to #TODO
+
+## Running
+To run Nest Watcher, just run `python3 nests.py`. Since it's getting OSM data on its first run, you will have to wait a while for it to finish. (10+ minutes until it's fully done)
+
+It should now be finding nests and write them to your database. Now, it's all working fine, but you might want Discord notifications or refine your results. For that, visit #TODO
