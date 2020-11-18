@@ -2,7 +2,7 @@
 title: Switching from v1 to v2
 nav_order: 2
 layout: default
-parent: getting-started
+parent: Getting Started
 ---
 
 # Switching from v1 to v2

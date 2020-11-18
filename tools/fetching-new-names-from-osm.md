@@ -2,7 +2,7 @@
 title: Fetching new names from OSM
 nav_order: 2
 layout: default
-parent: tools
+parent: Tools
 ---
 
 # Fetching new names from OSM

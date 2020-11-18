@@ -2,7 +2,7 @@
 title: First time install
 nav_order: 1
 layout: default
-parent: getting-started
+parent: Getting Started
 ---
 
 # First time install

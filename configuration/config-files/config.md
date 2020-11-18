@@ -2,7 +2,7 @@
 title: config.ini
 nav_order: 1
 layout: default
-parent: config-files
+parent: Config files
 ---
 
 # config.ini

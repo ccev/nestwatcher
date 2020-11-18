@@ -2,7 +2,7 @@
 title: Renaming Nests using Discord
 nav_order: 1
 layout: default
-parent: tools
+parent: Tools
 ---
 
 # Renaming Nests using Discord
