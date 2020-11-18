@@ -1,5 +1,5 @@
 ---
-title: Fetching new names from OSM
+title: Fetching new names
 nav_order: 2
 layout: default
 parent: Tools

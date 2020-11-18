@@ -1,5 +1,5 @@
 ---
-title: Renaming Nests using Discord
+title: Renaming Nests
 nav_order: 1
 layout: default
 parent: Tools
