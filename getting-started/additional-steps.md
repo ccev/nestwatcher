@@ -18,7 +18,7 @@ parent: Getting Started
 
 ## Tools
 
-Nest Watcher comes with a few useful tools that help you with renaming parks. I highly recommend running #TODO(newnames) after you first got your parks written to the DB. Then, you can try out #TODO(rename) to easily define details for all parks.
+Nest Watcher comes with a few useful tools that help you with renaming parks. I highly recommend [to fetch new names from OSM](https://ccev.github.io/nestwatcher/tools/fetching-new-names.html) after you first got your parks written to the DB. Then, you can to easily [define details for all parks using Disocrd](https://ccev.github.io/nestwatcher/tools/fetching-new-names.html).
 
 ## Discord Bot
 
