@@ -2,7 +2,7 @@
 title: Additional steps
 nav_order: 3
 layout: default
-parent: Getting Started
+parent: getting-started
 ---
 
 # Additional steps
