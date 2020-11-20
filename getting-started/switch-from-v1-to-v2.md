@@ -40,34 +40,34 @@ By running `python3 tools.py` you can run a few tools, that make your life easie
 #### Supported config options
 ```ini
 [Config]
-pokestop_pokemon = 
+pokestop_pokemon = x
 
 [Scanner DB]
-scanner =
-name = 
-user = 
-password = 
-host = 
-port = 
+scanner = x
+name = x
+user = x
+password = x
+host = x
+port = x
 
 [Nest DB]
-name = 
-user = 
-password = 
-host = 
-port = 
+name = x
+user = x
+password = x
+host = x
+port = x
 
 [Geojson]
-path = 
-default_park_name = 
-stroke = 
-stroke_width = 
-stroke_opacity = 
-fill = 
-fill_opacity = 
+path = x
+default_park_name = x
+stroke = x
+stroke_width = x
+stroke_opacity = x
+fill = x
+fill_opacity = x
 
 [Discord]
-language = en
+language = x
 ```
 
 ## Configure the tool

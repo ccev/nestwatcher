@@ -8,6 +8,8 @@ grand_parent: Configuration
 
 # config.ini
 
+The config file can be used to define general variables used in Nest Watcher.
+
 #### Path
 
 ```
@@ -46,9 +48,12 @@ Since Geojsons are only used in PMSF, you can ignore most of this section if you
 | Variable | Description | What to put in |
 |---|---|---|
 | path | The path to save the Geojson in | Text |
-| default_park_name | The name to use if there's no name set on OSM |
-
-#todo
+| default_park_name | The name to use if there's no name set on OSM | Text |
+| stroke | The polygon's stroke color | Hex color |
+| stroke_width | The polygon's stroke width | Number |
+| stroke_opacity | The polygon's stroke color opacity | Number |
+| fill | The polygon's fill color | Hex color |
+| fill_opacity | The polygon's fill color opacity | Number |
 
 #### Discord
 
