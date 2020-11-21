@@ -18,7 +18,7 @@ config/discord.json
 
 ### Example
 
-```json
+```
 [{
     "title": "Nests in {areaname}",
     "description": "{nest_entry}",

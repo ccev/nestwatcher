@@ -20,7 +20,7 @@ config/areas.json
 
 ### Example
 
-```json
+```
 [
     {
         "name": "Tokyo",
