@@ -20,7 +20,7 @@ config/settings.json
 
 ### Example
 
-```json
+```js
 [
     {
         "area": "DEFAULT",
