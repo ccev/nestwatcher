@@ -10,7 +10,7 @@ grand_parent: Configuration
 
 This file defines the areas you want to analyze nests in. Each area listed will be used. It's using the same format as Poracle, Discordopole and all the other Watchers, so if you're using on of those tools, you can copy it from there. Below is another methos you can use to make geofences.
 
-Note that capitalization is important everywhere you type in the areaname.
+Note that capitalization is important everywhere you put in the areaname.
 
 #### Path
 
@@ -82,4 +82,4 @@ config/areas.json
 
 ### How to generate a JSON in this format
 
-Since poracle.world is not around anymore, the best option I know of would be to go to <http://geojson.io/>, draw a polygon and copy the part after `"coordinates"` on the right side, then bring that in the right format.
+Since poracle.world is not around anymore, the best option would be to go to <http://geojson.io/>, draw a polygon and copy the part after `"coordinates"` on the right side, then bring that in the right format.

@@ -71,3 +71,7 @@ Options to customize in the second part:
 | {mon_emoji} | Icon of the nesting mon (as an emote) (only supported for bots)
 | {type_emoji} | An emote that represents the nesting mon's type. If it has two, they will be seperated with a `/`
 | shiny | An emote if the nestin mon is available in it shiny form
+
+Tip: Using `{lat}` and `{lon}` you can create links to any site you want. It could look something like this:
+- Google Maps: `[Google Maps](https://www.google.com/maps?q={lat},{lon})`
+- PMSF: `[PMSF](https://www.map.com?lat={lat}&lon={lon}&zoom=17)`
