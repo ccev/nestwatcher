@@ -35,6 +35,7 @@ Since options for both Scanner DB and Nest DB are practically the same, both sec
 | Variable | Description | What to put in |
 |---|---|---|
 | scanner | The type of Scanner backend you're using | mad/rdm |
+| custom_pokemon_table | If you happen to store pokemon data in another table than `pokemon`. Can also be set to e.g. `backupdb.pokemon_history`. Not available in the default config, must be added on your own. | table name 
 | name | The name of the database | Text |
 | password | The password used to access the database | Text |
 | user | The username used to access the database | Text |
