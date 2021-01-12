@@ -82,4 +82,4 @@ config/areas.json
 
 ### How to generate a JSON in this format
 
-Since poracle.world is not around anymore, the best option would be to go to <http://geojson.io/>, draw a polygon and copy the part after `"coordinates"` on the right side, then bring that in the right format.
+Since poracle.world is not around anymore, the best option would be to go to <http://geojson.io/>, draw a polygon and copy the part after `"coordinates"` on the right side, then bring that in the right format. Note that the coordinates will be in the wrong order. The script requires lat/lon while geojson.io returns lon/lat.
